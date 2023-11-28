@@ -4,8 +4,7 @@
 #### programmer and web developer
 
 
-My name is Byazid. I am an enthusiastic web developer based in Dhaka, with a rich experience of over 4 years in website design. If you are looking for a developer who’ll take over the research and development of your website, I am a well-established professional to help you with this.
-
+Byazid's proficiency in WordPress, HTML, CSS, JS, and Python allows him to build diverse web platforms tailored to specific business needs. His keen understanding of SEO ensures that these platforms don't just exist but thrive in the digital space, reaching the right audiences and making a significant impact.
 Skills: WORDPRESS / PYTHON / JS / HTML / CSS
 
 - 🔭 I’m currently working on Upwork 
