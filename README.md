@@ -1,4 +1,4 @@
-![programmer and web developer](https://media.licdn.com/dms/image/D4D22AQGe0_9U_NFZgQ/feedshare-shrink_800/0/1686290080045?e=1689206400&v=beta&t=MoE50bLDAysfSsLAGeq1crfpo7MwjoWfkDVKgx0VMl0)
+![programmer and web developer](https://github.com/ByazidBostami/byazidbostami/assets/98548403/798e49ff-c4a7-43c6-a156-6b03a134e815)
 
 ### Hi there 👋, my name is Byazid Bostami
 #### programmer and web developer
