@@ -1,32 +1,52 @@
-![programmer and web developer](https://github.com/ByazidBostami/byazidbostami/assets/98548403/798e49ff-c4a7-43c6-a156-6b03a134e815)
+# **Byazid Bostami**  
+**Programmer | Web Developer**
 
-### Hi there 👋, my name is Byazid Bostami
-#### programmer and web developer
+I specialize in building dynamic web platforms using WordPress, HTML, CSS, JS, and Python. With strong SEO knowledge, I ensure websites not only function but also perform exceptionally well in search engines.
 
+---
 
-Byazid's proficiency in WordPress, HTML, CSS, JS, and Python allows him to build diverse web platforms tailored to specific business needs. His keen understanding of SEO ensures that these platforms don't just exist but thrive in the digital space, reaching the right audiences and making a significant impact.
-Skills: WORDPRESS / PYTHON / JS / HTML / CSS
+### 💼 **Currently Working On:**
+- **Upwork**: Delivering custom web solutions.
 
-- 🔭 I’m currently working on Upwork 
-- 🌱 I’m currently learning new skils 
-- 🤔 I’m looking for help with remote job 
-- 📫 How to reach me: byazid.com 
+### 🌱 **Currently Learning:**
+- Expanding my expertise with **advanced web technologies** and tools to enhance performance and user experience.
 
+### 🤔 **Looking For:**
+- Remote job opportunities in **web development** and **programming**.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ByazidBostami )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/byazid//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/byazid.me/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/byazid.insta//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](byazid.com)  
+### 📫 **Reach Me:**
+- **Website**: [byazid.com](https://byazid.com)
+- **Email**: your_email@example.com
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ByazidBostami )](https://github.com/ryo-ma/github-profile-trophy)
+### 🔧 **Tech Skills**
+- **Languages**: Python, JavaScript, HTML, CSS
+- **CMS**: WordPress
+- **Tools & Libraries**: SEO optimization, Web development frameworks, UI/UX design principles
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByazidBostami )](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ByazidBostami &show_icons=true&count_private=true)  
+### 🏆 **Achievements**  
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ByazidBostami&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ByazidBostami )  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/ByazidBostami )  
+### 📊 **GitHub Stats**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByazidBostami&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Byazid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByazidBostami&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ByazidBostami )  
+---
 
-![Profile views](https://gpvc.arturio.dev/ByazidBostami )  
+### 🔥 **GitHub Streak**  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ByazidBostami&theme=radical)](https://github.com/ByazidBostami)
+
+---
+
+### 🔗 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/byazid)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ByazidBostami)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/byazid.me)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/byazid.insta)
+
+---
